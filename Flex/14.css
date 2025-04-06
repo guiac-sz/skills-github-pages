@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+}
+
+.img {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+
+.green {
+    border: 5px solid green;
+}
+
+.yellow {
+    border: 5px solid yellow;
+    order: 1;
+}
+
+.red {
+    border: 5px solid red;
+}

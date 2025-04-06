@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.camel {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+
+.green {
+    border: 5px solid green;
+}
